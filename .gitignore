@@ -32,3 +32,9 @@
 /734A.o
 /977A.exe
 /977A.o
+
+# Ignore all .exe files
+*.exe
+
+# Ignore all .o files
+*.o
