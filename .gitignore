@@ -38,3 +38,5 @@
 
 # Ignore all .o files
 *.o
+
+*.json
