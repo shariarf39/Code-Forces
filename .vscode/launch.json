@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/xampp/htdocs/Code Forces",
-      "program": "c:/xampp/htdocs/Code Forces/build/Debug/outDebug",
+      "cwd": "c:/xampp/htdocs/Code Forces/contest1022/CON 7755",
+      "program": "c:/xampp/htdocs/Code Forces/contest1022/CON 7755/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
